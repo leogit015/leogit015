@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+     <title>exercício centralizar </title>
+     <meta charset="utf-8">
+  <style>
+      body{
+          width: 80%;
+          font-family: Verdana , Arial, Helvetica, sans-serif;
+          color: #444;
+      }
+      h1{
+          color: rgb(3, 3, 109);
+          background-color: rgb(27, 3, 165);
+          text-align: center;
+          font-size: 46px;
+      }
+      h2{
+          color:rgb(2, 2, 109);
+          background-color:rgb(18, 150, 238);
+          font-size:36px;
+          padding: 10px;
+          border-bottom: solid 3px blue;
+          
+
+      }
+
+  </style>
+   
+   
+        
+    </head>
+    <body>
+       <h1>LEONARDO CARVALHO  </h1>
+            <p>Brasileiro,solteiro, 22 anos</p>
+       <h2>Objetivo</h2>
+             <p>Desenvolvedor front-end</p>
+       <h2>Formação</h2>
+        <h3>Análise e desenvolvimento de sistemas </h3>
+            <p>Universidade Salvador (Em andamento) </p>
+       <h2>Cursos/Especializações</h2>
+         <h3>HTML5</h3> 
+            <p>serfrontend 40h</p> 
+         <h3>CSS3</h3> 
+            <p>serfrontend - 40h</p>
+         <h3>Javascript</h3> 
+            <p>serfrontend - 40h</p>
+      
+    </body>
+</html>
